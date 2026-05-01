@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/muhammadbilal-butt-03a476232/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:bilalbutt1331@gmail.com">
+  <a href="mailto:mics.pes@gmai.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/📍_Long_Island,_NY-1F6FEB?style=for-the-badge" alt="Location"/>
@@ -168,8 +168,8 @@ Deep learning · Transfer learning · Focal Loss for class imbalance · Cosine L
 I'm actively seeking **entry-level SOC Analyst, Cybersecurity Analyst, or Threat Analyst** roles in the **NYC / Long Island metro area**. If you're a recruiter, hiring manager, or fellow defender — I'd love to chat.
 
 <p align="center">
-  <a href="mailto:bilalbutt1331@gmail.com">
-    <img src="https://img.shields.io/badge/📧_bilalbutt1331@gmail.com-D14836?style=for-the-badge&logoColor=white"/>
+  <a href="mailto:mics.pes@gmail.com">
+    <img src="https://img.shields.io/badge/📧_mics.pes@gmai.com-D14836?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammadbilal-butt-03a476232/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
