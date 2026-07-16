@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Muhammad Bilal Butt 👋</h1>
 
-<h3 align="center">🛡️ Aspiring SOC Analyst &nbsp;·&nbsp; 💻 Computer Engineer &nbsp;·&nbsp; 🔍 Threat Detection Enthusiast</h3>
+<h3 align="center">💻 Computer Engineer &nbsp;·&nbsp; 🛡️ Aspiring SOC Analyst &nbsp;·&nbsp; 🤖 AI & ML Builder</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadbilal-butt-03a476232/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mics.pes@gmai.com">
+  <a href="mailto:bilalbutt1331@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://img.shields.io/badge/📍_Long_Island,_NY-1F6FEB?style=for-the-badge" alt="Location"/>
@@ -21,14 +21,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Engineering graduate** (ABET-accredited) based in Long Island, NY, focused on building a career in **Security Operations and Threat Detection**. I enjoy taking raw log data, breaking it down, and turning it into actionable alerts — the kind of triage work that real Tier 1 and Tier 2 SOC analysts do every day.
+I'm a **Computer Engineering graduate** (ABET-accredited) based in Long Island, NY. I build with AI every day and I love turning raw, messy data into something useful: a threat alert, a dashboard, or a working ML application. My two tracks are **Security Operations / Threat Detection** and **applied AI/ML**, and my projects sit right at that intersection.
 
-- 🔭 **Currently:** Associate at **Nestlé Health Science**, actively pursuing **SOC Analyst / Threat Analyst** roles in the **NYC / Long Island metro area**
-- 📚 **Studying:** Google Cybersecurity Certificate (Coursera) · **CompTIA Security+** (target Q2 2026)
-- 🧪 **Hands-on with:** Splunk · Wireshark · Linux · TryHackMe SOC Level 1 path
-- 🌱 **Currently learning:** Detection engineering, MITRE ATT&CK mapping, SIEM rule tuning
-- 💬 **Ask me about:** Log parsing, SIEM detection logic, network security fundamentals
-- ✅ **Work Authorization:** US Permanent Resident — authorized to work for any US employer
+- 🔭 **Currently:** Actively pursuing **SOC Analyst / Threat Analyst** roles in the **NYC / Long Island metro area**, plus early-career AI and tech-for-impact opportunities
+- 📚 **Studying:** Google Cybersecurity Certificate (5 of 8 courses completed) · **CompTIA Security+** (target Q2 2026)
+- 🧪 **Hands-on with:** Splunk · Wireshark · Linux · TryHackMe SOC Level 1 path · TensorFlow/Keras · Streamlit
+- 🌱 **Currently learning:** Detection engineering, MITRE ATT&CK mapping, SIEM rule tuning, LLM-assisted workflows
+- 💬 **Ask me about:** Log parsing, SIEM detection logic, network security fundamentals, training CNNs on imbalanced data
+- ✅ **Work Authorization:** US Permanent Resident, authorized to work for any US employer
 
 ---
 
@@ -103,16 +103,16 @@ A Python-based **security log analysis engine** built for SOC and Blue Team work
 SOC Tier 1 / Tier 2 triage · Regex log parsing · Threshold-based alerting · MITRE-mapped detection logic · Structured analyst handoff
 
 **🛠️ Tech**
-`Python` · `Regex` · `JSON` · `HTML` · *(no external dependencies — pure stdlib)*
+`Python` · `Regex` · `JSON` · `HTML` · *(no external dependencies, pure stdlib)*
 
 [**→ View Repository**](https://github.com/Bilal-Butt/Log-Analyzer-)
 
 </td>
     <td width="50%" valign="top">
 
-### 🩺 [SkinScan AI — ML Skin Cancer Detection](https://github.com/Bilal-Butt/Skin-cancer-detection-webapp)
+### 🩺 [SkinScan AI: ML Skin Cancer Detection](https://github.com/Bilal-Butt/Skin-cancer-detection-webapp)
 
-My **Final Year Project** — a deep learning system that segments and classifies dermoscopy images for early skin cancer screening, packaged as a Streamlit web app.
+My **Final Year Project**, a deep learning system that segments and classifies dermoscopy images for early skin cancer screening, packaged as a Streamlit web app.
 
 **🔍 What it does**
 - **U-Net** draws a pixel-precise mask around the lesion (**95.7% accuracy**, **0.886 Dice**)
@@ -132,7 +132,7 @@ Deep learning · Transfer learning · Focal Loss for class imbalance · Cosine L
   </tr>
 </table>
 
-> 📌 **More projects coming soon** — Vehicle Recognition CNN, Smart Home IoT (Arduino), and a 555-Timer PCB Design will be migrated to GitHub. Stay tuned.
+> 📌 **More projects coming soon:** Vehicle Recognition CNN, Smart Home IoT (Arduino), and a 555-Timer PCB Design will be migrated to GitHub. Stay tuned.
 
 ---
 
@@ -140,13 +140,10 @@ Deep learning · Transfer learning · Focal Loss for class imbalance · Cosine L
 
 | Certification / Course | Issuer | Status |
 |---|---|---|
-| Foundations of Cybersecurity | Google / Coursera | ✅ Completed |
-| Play It Safe: Manage Security Risks | Google / Coursera | ✅ Completed |
-| Connect and Protect: Networks and Network Security | Google / Coursera | ✅ Completed |
+| Google Cybersecurity Certificate (Full Track) | Google / Coursera | 🟡 In Progress · 5 of 8 courses completed |
 | Advanced Commands in Linux | Coursera | ✅ Completed |
-| Google Cybersecurity Certificate (Full Track) | Google / Coursera | 🟡 In Progress |
 | CompTIA Security+ | CompTIA | 🎯 Target: Q2 2026 |
-| TryHackMe — SOC Level 1 Path | TryHackMe | 🟡 In Progress |
+| TryHackMe · SOC Level 1 Path | TryHackMe | 🟡 In Progress |
 
 ---
 
@@ -165,11 +162,11 @@ Deep learning · Transfer learning · Focal Loss for class imbalance · Cosine L
 
 ## 📬 Let's Connect
 
-I'm actively seeking **entry-level SOC Analyst, Cybersecurity Analyst, or Threat Analyst** roles in the **NYC / Long Island metro area**. If you're a recruiter, hiring manager, or fellow defender — I'd love to chat.
+I'm actively seeking **entry-level SOC Analyst, Cybersecurity Analyst, or Threat Analyst** roles in the **NYC / Long Island metro area**, and I'm equally excited by early-career opportunities that put AI to work for real-world impact. If you're a recruiter, hiring manager, or fellow defender, I'd love to chat.
 
 <p align="center">
-  <a href="mailto:mics.pes@gmail.com">
-    <img src="https://img.shields.io/badge/📧_mics.pes@gmai.com-D14836?style=for-the-badge&logoColor=white"/>
+  <a href="mailto:bilalbutt1331@gmail.com">
+    <img src="https://img.shields.io/badge/📧_bilalbutt1331@gmail.com-D14836?style=for-the-badge&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/muhammadbilal-butt-03a476232/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
