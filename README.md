@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Muhammad Bilal Butt 👋</h1>
 
-<h3 align="center">💻 Computer Engineer &nbsp;·&nbsp; 🛡️ Aspiring SOC Analyst &nbsp;·&nbsp; 🤖 AI & ML Builder</h3>
+<h3 align="center">🤖 Junior Data Scientist &nbsp;·&nbsp; 🧠 Machine Learning Engineer &nbsp;·&nbsp; 📊 Python · SQL · Statistical Analysis</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammadbilal-butt-03a476232/">
@@ -9,7 +9,7 @@
   <a href="mailto:bilalbutt1331@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/📍_Long_Island,_NY-1F6FEB?style=for-the-badge" alt="Location"/>
+  <img src="https://img.shields.io/badge/📍_Lake_Grove,_NY-1F6FEB?style=for-the-badge" alt="Location"/>
   <img src="https://img.shields.io/badge/🟢_Open_to_Work-22863A?style=for-the-badge" alt="Open to Work"/>
 </p>
 
@@ -21,64 +21,54 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Engineering graduate** (ABET-accredited) based in Long Island, NY. I build with AI every day and I love turning raw, messy data into something useful: a threat alert, a dashboard, or a working ML application. My two tracks are **Security Operations / Threat Detection** and **applied AI/ML**, and my projects sit right at that intersection.
+I'm a **Computer Engineering graduate** (ABET-accredited, 2025) based in Lake Grove, NY. I build end-to-end machine learning systems — from raw, messy datasets to deployed, production-ready applications. My work spans the full ML lifecycle: **dataset curation, preprocessing, model training, evaluation, and deployment**.
 
-- 🔭 **Currently:** Actively pursuing **SOC Analyst / Threat Analyst** roles in the **NYC / Long Island metro area**, plus early-career AI and tech-for-impact opportunities
-- 📚 **Studying:** Google Cybersecurity Certificate (5 of 8 courses completed) · **CompTIA Security+** (target Q2 2026)
-- 🧪 **Hands-on with:** Splunk · Wireshark · Linux · TryHackMe SOC Level 1 path · TensorFlow/Keras · Streamlit
-- 🌱 **Currently learning:** Detection engineering, MITRE ATT&CK mapping, SIEM rule tuning, LLM-assisted workflows
-- 💬 **Ask me about:** Log parsing, SIEM detection logic, network security fundamentals, training CNNs on imbalanced data
-- ✅ **Work Authorization:** US Permanent Resident, authorized to work for any US employer
+- 🔭 **Currently seeking:** Junior Data Scientist or Data Analyst roles — open to remote and on-site
+- 🏆 **Flagship project:** Deep-learning skin cancer screening app — **95.7% segmentation accuracy**, **80.4% classification accuracy** across 7 imbalanced classes on 10,015 real dermoscopy images
+- 🧪 **Stack:** Python · TensorFlow/Keras · scikit-learn · Pandas · NumPy · Streamlit · SQL
+- 📚 **Studying:** Advanced ML, LLM systems, prompt engineering, statistical modeling
+- 💬 **Ask me about:** CNN architectures, class-imbalance strategies, log anomaly detection, model evaluation beyond headline accuracy
+- ✅ **Work Authorization:** U.S. Permanent Resident — authorized to work for any U.S. employer
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🔐 Security & Monitoring
-<p>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
-  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-BA0C2F?style=for-the-badge"/>
-</p>
-
-### 💻 Operating Systems
-<p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-</p>
-
-### 👨‍💻 Languages
+### 👨‍💻 Languages & Query
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 </p>
 
-### 🤖 ML / Frameworks
+### 📊 Data Analysis & Visualization
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🤖 Machine Learning & Deep Learning
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TFLite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
-### 🧰 Tools & Platforms
+### 🚀 Deployment & Tooling
 <p>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </p>
 
 ---
@@ -89,50 +79,87 @@ I'm a **Computer Engineering graduate** (ABET-accredited) based in Long Island, 
   <tr>
     <td width="50%" valign="top">
 
-### 🛡️ [Log Analyzer & Alert Engine](https://github.com/Bilal-Butt/Log-Analyzer-)
+### 🩺 [SkinScan AI — Deep Learning Skin Cancer Screener](https://github.com/Bilal-Butt/Skin-cancer-detection-webapp)
 
-A Python-based **security log analysis engine** built for SOC and Blue Team workflows. Point it at an `auth.log` or Windows Event CSV, and it returns a severity-ranked threat report in seconds.
+My **Final Year Capstone**: a two-stage deep learning pipeline that segments and classifies dermoscopy images for early skin cancer screening — deployed as a live Streamlit web app.
 
-**🔍 What it does**
-- Parses **Linux auth logs** (SSH brute force, root login, sudo abuse, account enumeration)
-- Parses **Windows Event logs** (4624, 4625, 4720, 4740, 4698, 1102, 7045 + more)
-- Outputs **color-coded HTML dashboards** and **structured JSON** for SIEM ingestion
-- Detection logic mirrors **Splunk / Microsoft Sentinel / Elastic SIEM** alert patterns
+**📈 Key Results**
+- **U-Net** segmentation: **95.7% accuracy · 0.886 Dice coefficient**
+- **EfficientNetB3** classifier: **80.4% test accuracy** across **7 imbalanced lesion classes**
+- Mask fed into classifier to zero out background noise before prediction
 
-**🧠 Skills demonstrated**
-SOC Tier 1 / Tier 2 triage · Regex log parsing · Threshold-based alerting · MITRE-mapped detection logic · Structured analyst handoff
+**🧠 ML Concepts Applied**
+Transfer learning · Focal Loss for class imbalance · Cosine LR decay · Per-class precision / recall / confusion-matrix analysis · TFLite optimization for lightweight inference
 
 **🛠️ Tech**
-`Python` · `Regex` · `JSON` · `HTML` · *(no external dependencies, pure stdlib)*
+`Python` · `TensorFlow` · `Keras` · `Streamlit` · `TFLite` · *HAM10000 (10,015 images)*
 
-[**→ View Repository**](https://github.com/Bilal-Butt/Log-Analyzer-)
+[**→ View Repository**](https://github.com/Bilal-Butt/Skin-cancer-detection-webapp)
 
 </td>
     <td width="50%" valign="top">
 
-### 🩺 [SkinScan AI: ML Skin Cancer Detection](https://github.com/Bilal-Butt/Skin-cancer-detection-webapp)
+### 📊 [Log Analytics & Anomaly Detection Engine](https://github.com/Bilal-Butt/Log-Analyzer-)
 
-My **Final Year Project**, a deep learning system that segments and classifies dermoscopy images for early skin cancer screening, packaged as a Streamlit web app.
+A **dependency-free Python data pipeline** that ingests raw, unstructured log files and applies statistical anomaly detection to surface behavioral outliers — the same pattern that powers production SIEM tooling.
 
-**🔍 What it does**
-- **U-Net** draws a pixel-precise mask around the lesion (**95.7% accuracy**, **0.886 Dice**)
-- **EfficientNetB3** classifies into **7 lesion types** (**80.4% test accuracy**)
-- Mask is fed into the classifier to zero out background noise before prediction
-- Returns risk badge (🔴 High / 🟡 Moderate / 🟢 Low) + confidence chart
+**📈 Key Results**
+- Detects **15+ anomalous behavior patterns** across Linux and Windows log sources
+- Per-entity (per-IP) time-window aggregation + threshold tuning to reduce false positives
+- Outputs severity-tiered **HTML dashboards** and **structured JSON** for downstream systems
 
-**🧠 Skills demonstrated**
-Deep learning · Transfer learning · Focal Loss for class imbalance · Cosine LR decay · TFLite optimization · Streamlit UI
+**🧠 Data Engineering Concepts Applied**
+Unstructured-to-structured data normalization · Regex-based feature extraction · Threshold-based statistical outlier detection · Pipeline design (ingest → parse → score → report)
 
 **🛠️ Tech**
-`Python` · `TensorFlow` · `Keras` · `Streamlit` · `TFLite` · *Trained on HAM10000 (10,015 images)*
+`Python` · `Regex` · `JSON` · `HTML` · *(zero external dependencies — pure stdlib)*
 
-[**→ View Repository**](https://github.com/Bilal-Butt/Skin-cancer-detection-webapp)
+[**→ View Repository**](https://github.com/Bilal-Butt/Log-Analyzer-)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🚗 [Vehicle Recognition CNN](https://github.com/Bilal-Butt/vehicle-recognition-cnn)
+
+A convolutional neural network image classifier built to distinguish **cars, trucks, and buses**, covering the full training workflow from scratch.
+
+**🧠 Concepts Applied**
+Image preprocessing · CNN architecture selection · Training and validation methodology · Accuracy evaluation and overfitting mitigation
+
+**🛠️ Tech**
+`Python` · `TensorFlow` · `Keras`
+
+[**→ View Repository**](https://github.com/Bilal-Butt/vehicle-recognition-cnn)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🗺️ Additional Projects
+
+- **Raspberry Pi Navigation Display** — Automated road highlighting on rendered map images (Proteus simulation)
+- **Smart Home Automation** — Arduino IoT system with a companion Flutter mobile app; REST API + JSON data handling
+- **PCB Design** — 555-timer circuit designed, simulated, and fabricated
+- **Virtualized Networking Lab** — Multi-router home lab for network troubleshooting practice
+
+> *More being uploaded to GitHub. Watch this space.*
 
 </td>
   </tr>
 </table>
 
-> 📌 **More projects coming soon:** Vehicle Recognition CNN, Smart Home IoT (Arduino), and a 555-Timer PCB Design will be migrated to GitHub. Stay tuned.
+---
+
+## 🧠 Core Competencies
+
+```
+Machine Learning          Deep Learning & CNNs        Transfer Learning
+Data Cleaning & Prep      Exploratory Data Analysis   Feature Engineering
+Class-Imbalance Handling  Model Evaluation & Tuning   SQL & Relational DBs
+Data Pipeline Automation  Model Deployment            Statistical Fundamentals
+Data Storytelling         Stakeholder Communication   LLM-Assisted Workflows
+```
 
 ---
 
@@ -140,10 +167,24 @@ Deep learning · Transfer learning · Focal Loss for class imbalance · Cosine L
 
 | Certification / Course | Issuer | Status |
 |---|---|---|
-| Google Cybersecurity Certificate (Full Track) | Google / Coursera | 🟡 In Progress · 5 of 8 courses completed |
+| AI Fluency: Framework and Foundations | Anthropic / UCC / Ringling College | ✅ Completed |
+| Claude 101 — AI for Professional Work | Anthropic | ✅ Completed |
 | Advanced Commands in Linux | Coursera | ✅ Completed |
-| CompTIA Security+ | CompTIA | 🎯 Target: Q2 2026 |
-| TryHackMe · SOC Level 1 Path | TryHackMe | 🟡 In Progress |
+| Linux Command Line Terminal Basics | Udemy | ✅ Completed |
+| Google Cybersecurity Professional Certificate | Google / Coursera | 🟡 In Progress · 5 of 8 |
+
+---
+
+## 💼 Experience Highlights
+
+**IT Helpdesk Technician — MICS Computers** *(Oct 2023 – Sep 2025)*
+> Analyzed high-volume Windows and Linux event logs to identify recurring failure patterns. Maintained structured ticket datasets supporting trend analysis and clean technician handoff. Validated every remediation through log review — building the habit of checking results rather than assuming them.
+
+**Flutter Development Intern — Greesoft** *(Jul 2024 – Sep 2024)*
+> Built cross-platform mobile apps with REST API integration, consuming and parsing structured JSON data. Worked within Git version control and Agile team workflows.
+
+**President, IET On-Campus Network — COMSATS University** *(Jul 2023 – Jul 2025)*
+> Led a 50+ member technical organization. Designed and delivered hands-on workshops presenting complex technical material to mixed-skill audiences.
 
 ---
 
@@ -160,17 +201,28 @@ Deep learning · Transfer learning · Focal Loss for class imbalance · Cosine L
 
 ---
 
+## 🎓 Education
+
+**B.S. in Computer Engineering (ABET-Accredited)** — COMSATS University Islamabad *(Sep 2020 – Jul 2025)*
+
+*Relevant coursework: Machine Learning · Statistics and Probability · Database Systems · Data Structures and Algorithms · Signals and Systems · Operating Systems · Computer Networks · Web Technologies*
+
+---
+
 ## 📬 Let's Connect
 
-I'm actively seeking **entry-level SOC Analyst, Cybersecurity Analyst, or Threat Analyst** roles in the **NYC / Long Island metro area**, and I'm equally excited by early-career opportunities that put AI to work for real-world impact. If you're a recruiter, hiring manager, or fellow defender, I'd love to chat.
+I'm actively seeking **Junior Data Scientist or Data Analyst** roles — open to **remote and on-site** opportunities across the U.S. If you're building data-driven products and need someone who can own the full ML pipeline from messy data to deployed model, I'd love to connect.
 
 <p align="center">
   <a href="mailto:bilalbutt1331@gmail.com">
     <img src="https://img.shields.io/badge/📧_bilalbutt1331@gmail.com-D14836?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-bilal-butt-03a476232/">
+  <a href="https://www.linkedin.com/in/muhammadbilal-butt-03a476232/">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Bilal-Butt">
+    <img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<p align="center"><i>Built with 🔍 for the defenders — because attackers don't take days off.</i></p>
+<p align="center"><i>From raw data to real decisions — that's the pipeline I care about.</i></p>
