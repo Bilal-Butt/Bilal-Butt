@@ -121,6 +121,48 @@ Unstructured-to-structured data normalization · Regex-based feature extraction 
   <tr>
     <td width="50%" valign="top">
 
+### 🧩 [Sudoku Solver — Constraint Satisfaction AI](https://github.com/Bilal-Butt/sudoku-solver-csp)
+
+Revisited a working-but-flawed AI course project and rebuilt it properly: a CSP-based Sudoku solver and generator that contains **zero Sudoku-specific logic**, backed by real benchmarks instead of assumptions.
+
+**📈 Key Results**
+- Solves any valid board in **~4 ms**, regardless of difficulty — plain backtracking instead ranges from **0.31 ms to 529.80 ms** over the same range
+- CSP wins by up to **118x** on hard puzzles, loses by up to **13x** on easy ones, with a measured crossover around 34 clues
+- Found and fixed 3 real bugs from the original submission, including an exhaustive-search call that was up to **19.6x slower** than needed
+
+**🧠 Concepts Applied**
+Constraint satisfaction (AllDifferent constraints) · Backtracking search · Randomized puzzle generation · Empirical benchmarking · Input validation
+
+**🛠️ Tech**
+`Python` · `python-constraint` · `Tkinter` · *headless Colab notebook*
+
+[**→ View Repository**](https://github.com/Bilal-Butt/sudoku-solver-csp)
+
+</td>
+    <td width="50%" valign="top">
+
+### 🔊 [Urban Sound Classification — Data Leakage Audit](https://github.com/Bilal-Butt/sound-classification)
+
+An audio classifier project where the real finding wasn't the model — it was proving that the standard random train/test split on UrbanSound8K silently leaks the majority of test clips from recordings the model already trained on.
+
+**📈 Key Results**
+- Measured that under a naive random split, **95.4%** of test clips come from recordings the model already trained on
+- Built a synthetic dataset to isolate the effect: the leaky split reported **91.67%** accuracy vs. **9.17%** with proper recording-disjoint folds on the same model
+- Audited the official folds too and reported the smaller leak found there: **5 recordings (1.74% of clips)** spanning two folds each
+
+**🧠 Concepts Applied**
+Data leakage detection · Fold-aware cross-validation · MFCC / log-mel feature engineering · Class-imbalance weighting · CNN & MLP architectures
+
+**🛠️ Tech**
+`Python` · `TensorFlow/Keras` · `librosa` · `scikit-learn`
+
+[**→ View Repository**](https://github.com/Bilal-Butt/sound-classification)
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
 ### 🚗 [Vehicle Recognition CNN](https://github.com/Bilal-Butt/vehicle-recognition-cnn)
 
 A convolutional neural network image classifier built to distinguish **cars, trucks, and buses**, covering the full training workflow from scratch.
