@@ -259,7 +259,7 @@ I'm actively seeking **Junior Data Scientist or Data Analyst** roles — open to
   <a href="mailto:bilalbutt1331@gmail.com">
     <img src="https://img.shields.io/badge/📧_bilalbutt1331@gmail.com-D14836?style=for-the-badge&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/muhammadbilal-butt-03a476232/">
+  <a href="https://www.linkedin.com/in/bilal-butt-ml">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Bilal-Butt">
